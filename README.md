@@ -1,1 +1,1 @@
-1
+![CI](https://github.com/Kse09/HW_JS_Health_status/actions/workflows/ci.yml/badge.svg)
